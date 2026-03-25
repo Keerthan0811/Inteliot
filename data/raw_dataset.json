@@ -1,0 +1,1409 @@
+[
+  {
+    "instruction": "Turn off lights and switch on fan",
+    "output": [
+      "turn off lights",
+      "turn on fan"
+    ]
+  },
+  {
+    "instruction": "Dim room lights and raise the temperature",
+    "output": [
+      "dim room lights",
+      "raise temperature"
+    ]
+  },
+  {
+    "instruction": "Lock all doors and turn off speakers",
+    "output": [
+      "lock all doors",
+      "turn off speakers"
+    ]
+  },
+  {
+    "instruction": "Turn on kitchen lights and start coffee maker",
+    "output": [
+      "turn on kitchen lights",
+      "start coffee maker"
+    ]
+  },
+  {
+    "instruction": "Open curtains and adjust thermostat",
+    "output": [
+      "open curtains",
+      "adjust thermostat"
+    ]
+  },
+  {
+    "instruction": "Switch on living room lights and set alarm clock",
+    "output": [
+      "turn on living room lights",
+      "set alarm clock"
+    ]
+  },
+  {
+    "instruction": "Dim hallway lights and lower the volume",
+    "output": [
+      "dim hallway lights",
+      "lower volume"
+    ]
+  },
+  {
+    "instruction": "Close all doors and switch off TV",
+    "output": [
+      "close all doors",
+      "turn off TV"
+    ]
+  },
+  {
+    "instruction": "Turn off hallway lights and switch on TV",
+    "output": [
+      "turn off hallway lights",
+      "turn on TV"
+    ]
+  },
+  {
+    "instruction": "Set home security and start vacuum cleaner",
+    "output": [
+      "set home security",
+      "start vacuum cleaner"
+    ]
+  },
+  {
+    "instruction": "Turn on bedroom lights and adjust alarm",
+    "output": [
+      "turn on bedroom lights",
+      "adjust alarm"
+    ]
+  },
+  {
+    "instruction": "Dim room lights and adjust fan speed",
+    "output": [
+      "dim room lights",
+      "adjust fan speed"
+    ]
+  },
+  {
+    "instruction": "Switch on living room lights and start air purifier",
+    "output": [
+      "turn on living room lights",
+      "start air purifier"
+    ]
+  },
+  {
+    "instruction": "Turn off kitchen lights and switch off oven",
+    "output": [
+      "turn off kitchen lights",
+      "turn off oven"
+    ]
+  },
+  {
+    "instruction": "Set thermostat and start coffee machine",
+    "output": [
+      "set thermostat",
+      "start coffee machine"
+    ]
+  },
+  {
+    "instruction": "Close curtains and turn off lights",
+    "output": [
+      "close curtains",
+      "turn off lights"
+    ]
+  },
+  {
+    "instruction": "Adjust thermostat and turn on radio",
+    "output": [
+      "adjust thermostat",
+      "turn on radio"
+    ]
+  },
+  {
+    "instruction": "Turn on bedroom lights and start humidifier",
+    "output": [
+      "turn on bedroom lights",
+      "start humidifier"
+    ]
+  },
+  {
+    "instruction": "Dim hallway lights and switch off speakers",
+    "output": [
+      "dim hallway lights",
+      "turn off speakers"
+    ]
+  },
+  {
+    "instruction": "Set security system and turn off air purifier",
+    "output": [
+      "set security system",
+      "turn off air purifier"
+    ]
+  },
+  {
+    "instruction": "Turn off lights and switch on fan",
+    "output": [
+      "turn off lights",
+      "turn on fan"
+    ]
+  },
+  {
+    "instruction": "Lock the front door and arm the security system",
+    "output": [
+      "lock front door",
+      "arm security"
+    ]
+  },
+  {
+    "instruction": "Dim the living room lights and set the thermostat to 72",
+    "output": [
+      "dim living room lights",
+      "set thermostat 72"
+    ]
+  },
+  {
+    "instruction": "Turn on the TV and set the volume to 50 in the bedroom",
+    "output": [
+      "turn on tv bedroom",
+      "set volume 50 bedroom"
+    ]
+  },
+  {
+    "instruction": "Switch on the oven and set the timer to 30 minutes",
+    "output": [
+      "turn on oven",
+      "set timer 30"
+    ]
+  },
+  {
+    "instruction": "Lower the blinds and lock the patio door",
+    "output": [
+      "lower blinds",
+      "lock patio door"
+    ]
+  },
+  {
+    "instruction": "Turn off the coffee maker and start the vacuum cleaner",
+    "output": [
+      "turn off coffee maker",
+      "start vacuum"
+    ]
+  },
+  {
+    "instruction": "Disable the garage door and activate the sprinkler system",
+    "output": [
+      "disable garage door",
+      "activate sprinkler system"
+    ]
+  },
+  {
+    "instruction": "Dim the hallway lights and open the curtains",
+    "output": [
+      "dim hallway lights",
+      "open curtains"
+    ]
+  },
+  {
+    "instruction": "Turn on the dishwasher and start the washing machine",
+    "output": [
+      "turn on dishwasher",
+      "start washing machine"
+    ]
+  },
+  {
+    "instruction": "Unlock the back door and turn off the security cameras",
+    "output": [
+      "unlock back door",
+      "turn off security cameras"
+    ]
+  },
+  {
+    "instruction": "Change the thermostat to 75 and turn on the air purifier",
+    "output": [
+      "set thermostat 75",
+      "turn on air purifier"
+    ]
+  },
+  {
+    "instruction": "Increase the brightness of the kitchen lights and start the fan",
+    "output": [
+      "increase brightness kitchen",
+      "start fan"
+    ]
+  },
+  {
+    "instruction": "Turn off the TV and dim the bedroom lights",
+    "output": [
+      "turn off tv",
+      "dim bedroom lights"
+    ]
+  },
+  {
+    "instruction": "Switch off the oven and start the coffee maker",
+    "output": [
+      "turn off oven",
+      "start coffee maker"
+    ]
+  },
+  {
+    "instruction": "Activate the alarm system and disable the sprinkler system",
+    "output": [
+      "activate alarm system",
+      "disable sprinkler system"
+    ]
+  },
+  {
+    "instruction": "Turn on the living room lights and start the humidifier",
+    "output": [
+      "turn on living room lights",
+      "start humidifier"
+    ]
+  },
+  {
+    "instruction": "Set the thermostat to 68 and turn off the air purifier",
+    "output": [
+      "set thermostat 68",
+      "turn off air purifier"
+    ]
+  },
+  {
+    "instruction": "Lower the temperature and turn on the security cameras",
+    "output": [
+      "lower temperature",
+      "turn on security cameras"
+    ]
+  },
+  {
+    "instruction": "Switch off the garage door and turn on the vacuum cleaner",
+    "output": [
+      "turn off garage door",
+      "turn on vacuum"
+    ]
+  },
+  {
+    "instruction": "Turn off lights and switch on fan",
+    "output": [
+      "turn off lights",
+      "turn on fan"
+    ]
+  },
+  {
+    "instruction": "Heat the living room to 72 degrees and dim the lights to 50%",
+    "output": [
+      "turn on heater",
+      "set living room temperature to 72",
+      "dim lights to 50%"
+    ]
+  },
+  {
+    "instruction": "Lock the front door and turn on the security system",
+    "output": [
+      "lock front door",
+      "turn on security system"
+    ]
+  },
+  {
+    "instruction": "Turn on the TV and adjust the volume to 60",
+    "output": [
+      "turn on TV",
+      "set TV volume to 60"
+    ]
+  },
+  {
+    "instruction": "Turn on the coffee maker and set an alarm for 7am",
+    "output": [
+      "turn on coffee maker",
+      "set alarm for 7am"
+    ]
+  },
+  {
+    "instruction": "Lower the blinds and switch on the radio",
+    "output": [
+      "lower blinds",
+      "turn on radio"
+    ]
+  },
+  {
+    "instruction": "Turn off the AC and switch on the oven",
+    "output": [
+      "turn off AC",
+      "turn on oven"
+    ]
+  },
+  {
+    "instruction": "Set the thermostat to 75 and make the living room brighter",
+    "output": [
+      "set thermostat to 75",
+      "turn up living room lights"
+    ]
+  },
+  {
+    "instruction": "Unlock the back door and turn on the vacuum cleaner",
+    "output": [
+      "unlock back door",
+      "turn on vacuum cleaner"
+    ]
+  },
+  {
+    "instruction": "Dim the lights in the living room and turn on the fireplace",
+    "output": [
+      "dim lights in living room",
+      "turn on fireplace"
+    ]
+  },
+  {
+    "instruction": "Switch on the washing machine and set the washing machine to spin cycle",
+    "output": [
+      "turn on washing machine",
+      "set washing machine to spin cycle"
+    ]
+  },
+  {
+    "instruction": "Turn off the lights in the bedroom and close all windows",
+    "output": [
+      "turn off bedroom lights",
+      "close all windows"
+    ]
+  },
+  {
+    "instruction": "Turn on the shower and switch to the bathtub faucet",
+    "output": [
+      "turn on shower",
+      "switch to bathtub faucet"
+    ]
+  },
+  {
+    "instruction": "Set the living room temperature to 68 and turn on the TV",
+    "output": [
+      "set living room temperature to 68",
+      "turn on TV"
+    ]
+  },
+  {
+    "instruction": "Lock the attic door and turn off the main lights",
+    "output": [
+      "lock attic door",
+      "turn off main lights"
+    ]
+  },
+  {
+    "instruction": "Switch on the coffee maker and turn on the TV",
+    "output": [
+      "turn on coffee maker",
+      "turn on TV"
+    ]
+  },
+  {
+    "instruction": "Dim the bedroom lights and switch on the music system",
+    "output": [
+      "dim bedroom lights",
+      "turn on music system"
+    ]
+  },
+  {
+    "instruction": "Turn on the oven and adjust the TV volume to 70",
+    "output": [
+      "turn on oven",
+      "set TV volume to 70"
+    ]
+  },
+  {
+    "instruction": "Unlock the side door and turn off the lights in the garage",
+    "output": [
+      "unlock side door",
+      "turn off garage lights"
+    ]
+  },
+  {
+    "instruction": "Heat the home to 70 degrees and make the living room brighter",
+    "output": [
+      "turn on heater",
+      "set home temperature to 70",
+      "turn up living room lights"
+    ]
+  },
+  {
+    "instruction": "Turn off lights and switch on fan",
+    "output": [
+      "turn off lights",
+      "turn on fan"
+    ]
+  },
+  {
+    "instruction": "Lock all doors and set thermostat to 22",
+    "output": [
+      "lock all doors",
+      "set thermostat to 22"
+    ]
+  },
+  {
+    "instruction": "Switch on living room lights and turn off kitchen lights",
+    "output": [
+      "switch on living room lights",
+      "turn off kitchen lights"
+    ]
+  },
+  {
+    "instruction": "Dim bedroom lights and play relaxing music",
+    "output": [
+      "dim bedroom lights",
+      "play relaxing music"
+    ]
+  },
+  {
+    "instruction": "Turn off TV and set thermostat to 25 in living room",
+    "output": [
+      "turn off TV",
+      "set thermostat to 25 in living room"
+    ]
+  },
+  {
+    "instruction": "Lock front door and arm home security system",
+    "output": [
+      "lock front door",
+      "arm home security system"
+    ]
+  },
+  {
+    "instruction": "Turn on lights in all rooms and dim bathroom lights",
+    "output": [
+      "turn on lights in all rooms",
+      "dim bathroom lights"
+    ]
+  },
+  {
+    "instruction": "Set kitchen thermostat to 20 and start coffee maker",
+    "output": [
+      "set kitchen thermostat to 20",
+      "start coffee maker"
+    ]
+  },
+  {
+    "instruction": "Switch off living room TV and turn on air purifier",
+    "output": [
+      "switch off living room TV",
+      "turn on air purifier"
+    ]
+  },
+  {
+    "instruction": "Arm home security system and turn off porch lights",
+    "output": [
+      "arm home security system",
+      "turn off porch lights"
+    ]
+  },
+  {
+    "instruction": "Start laundry and set living room thermostat to 23",
+    "output": [
+      "start laundry",
+      "set living room thermostat to 23"
+    ]
+  },
+  {
+    "instruction": "Lock all windows and turn on oven",
+    "output": [
+      "lock all windows",
+      "turn on oven"
+    ]
+  },
+  {
+    "instruction": "Dim home theater lights and pause movie",
+    "output": [
+      "dim home theater lights",
+      "pause movie"
+    ]
+  },
+  {
+    "instruction": "Turn on outside lights and set master bedroom thermostat to 18",
+    "output": [
+      "turn on outside lights",
+      "set master bedroom thermostat to 18"
+    ]
+  },
+  {
+    "instruction": "Start fan in kitchen and turn off all lights",
+    "output": [
+      "start fan in kitchen",
+      "turn off all lights"
+    ]
+  },
+  {
+    "instruction": "Arm security system and set kitchen thermostat to 24",
+    "output": [
+      "arm security system",
+      "set kitchen thermostat to 24"
+    ]
+  },
+  {
+    "instruction": "Dim all lights and start washing machine",
+    "output": [
+      "dim all lights",
+      "start washing machine"
+    ]
+  },
+  {
+    "instruction": "Switch off all lights and set thermostat to 15",
+    "output": [
+      "switch off all lights",
+      "set thermostat to 15"
+    ]
+  },
+  {
+    "instruction": "Start water purification system and lock all external doors",
+    "output": [
+      "start water purification system",
+      "lock all external doors"
+    ]
+  },
+  {
+    "instruction": "Turn off lights and switch on fan",
+    "output": [
+      "turn off lights",
+      "turn on fan"
+    ]
+  },
+  {
+    "instruction": "Set thermostat to 22\u00b0C and turn on living room lights",
+    "output": [
+      "set thermostat to 22\u00b0C",
+      "turn on living room lights"
+    ]
+  },
+  {
+    "instruction": "Lock all doors and turn off the main lights",
+    "output": [
+      "lock all doors",
+      "turn off main lights"
+    ]
+  },
+  {
+    "instruction": "Switch on kitchen lights and turn up volume to 50",
+    "output": [
+      "turn on kitchen lights",
+      "turn up volume to 50"
+    ]
+  },
+  {
+    "instruction": "Set living room temperature to 25\u00b0C and turn on TV",
+    "output": [
+      "set living room temperature to 25\u00b0C",
+      "turn on TV"
+    ]
+  },
+  {
+    "instruction": "Turn off TV and lock bedroom door",
+    "output": [
+      "turn off TV",
+      "lock bedroom door"
+    ]
+  },
+  {
+    "instruction": "Switch on all lights and turn off alarm",
+    "output": [
+      "turn on all lights",
+      "turn off alarm"
+    ]
+  },
+  {
+    "instruction": "Lower living room lights to 30% and turn off air conditioner",
+    "output": [
+      "lower living room lights to 30%",
+      "turn off air conditioner"
+    ]
+  },
+  {
+    "instruction": "Turn on bathroom lights and shower",
+    "output": [
+      "turn on bathroom lights",
+      "turn on shower"
+    ]
+  },
+  {
+    "instruction": "Set thermostat to 20\u00b0C and turn off living room lights",
+    "output": [
+      "set thermostat to 20\u00b0C",
+      "turn off living room lights"
+    ]
+  },
+  {
+    "instruction": "Switch off all lights and lock front door",
+    "output": [
+      "turn off all lights",
+      "lock front door"
+    ]
+  },
+  {
+    "instruction": "Turn up music volume and dim living room lights",
+    "output": [
+      "turn up music volume",
+      "dim living room lights"
+    ]
+  },
+  {
+    "instruction": "Set bedroom temperature to 21\u00b0C and turn off fan",
+    "output": [
+      "set bedroom temperature to 21\u00b0C",
+      "turn off fan"
+    ]
+  },
+  {
+    "instruction": "Lock back door and turn on kitchen lights",
+    "output": [
+      "lock back door",
+      "turn on kitchen lights"
+    ]
+  },
+  {
+    "instruction": "Turn on shower and lower living room lights to 40%",
+    "output": [
+      "turn on shower",
+      "lower living room lights to 40%"
+    ]
+  },
+  {
+    "instruction": "Switch off living room lights and turn off TV",
+    "output": [
+      "turn off living room lights",
+      "turn off TV"
+    ]
+  },
+  {
+    "instruction": "Set thermostat to 23\u00b0C and turn on main lights",
+    "output": [
+      "set thermostat to 23\u00b0C",
+      "turn on main lights"
+    ]
+  },
+  {
+    "instruction": "Turn off music and lock all doors",
+    "output": [
+      "turn off music",
+      "lock all doors"
+    ]
+  },
+  {
+    "instruction": "Lower kitchen lights to 20% and turn off air conditioner",
+    "output": [
+      "lower kitchen lights to 20%",
+      "turn off air conditioner"
+    ]
+  },
+  {
+    "instruction": "Switch on bedroom lights and turn off bathroom lights",
+    "output": [
+      "turn on bedroom lights",
+      "turn off bathroom lights"
+    ]
+  },
+  {
+    "instruction": "Turn on fan and dim living room lights to 20%",
+    "output": [
+      "turn on fan",
+      "dim living room lights to 20%"
+    ]
+  },
+  {
+    "instruction": "Turn off lights and switch on fan",
+    "output": [
+      "turn off lights",
+      "turn on fan"
+    ]
+  },
+  {
+    "instruction": "Lock all doors and close all windows",
+    "output": [
+      "lock doors",
+      "lock all doors",
+      "close windows",
+      "close all windows"
+    ]
+  },
+  {
+    "instruction": "Turn on living room lights and TV",
+    "output": [
+      "turn on living room lights",
+      "turn on tv"
+    ]
+  },
+  {
+    "instruction": "Adjust the thermostat to 22 degrees and turn off AC",
+    "output": [
+      "adjust thermostat to 22 degrees",
+      "turn off ac"
+    ]
+  },
+  {
+    "instruction": "Open all curtains and turn on air purifier",
+    "output": [
+      "open curtains",
+      "open all curtains",
+      "turn on air purifier"
+    ]
+  },
+  {
+    "instruction": "Switch off the coffee maker and brew a new coffee",
+    "output": [
+      "turn off coffee maker",
+      "brew new coffee"
+    ]
+  },
+  {
+    "instruction": "Turn on the oven at 180 degrees and switch on exhaust fan",
+    "output": [
+      "turn on oven",
+      "set oven to 180 degrees",
+      "turn on exhaust fan"
+    ]
+  },
+  {
+    "instruction": "Dim the bedroom lights and turn on the nightlight",
+    "output": [
+      "dim bedroom lights",
+      "turn on nightlight"
+    ]
+  },
+  {
+    "instruction": "Close the front door and adjust the security system to high alert",
+    "output": [
+      "close front door",
+      "adjust security system to high alert"
+    ]
+  },
+  {
+    "instruction": "Turn off the PC and switch on the gaming console",
+    "output": [
+      "turn off pc",
+      "turn on gaming console"
+    ]
+  },
+  {
+    "instruction": "Open the balcony door and turn on the floor fan",
+    "output": [
+      "open balcony door",
+      "turn on floor fan"
+    ]
+  },
+  {
+    "instruction": "Adjust the shower temperature to hot and turn on the hair dryer",
+    "output": [
+      "adjust shower temperature to hot",
+      "turn on hair dryer"
+    ]
+  },
+  {
+    "instruction": "Switch off the phone charger and turn on the laptop",
+    "output": [
+      "turn off phone charger",
+      "turn on laptop"
+    ]
+  },
+  {
+    "instruction": "Dim the kitchen lights and turn on the microwave",
+    "output": [
+      "dim kitchen lights",
+      "turn on microwave"
+    ]
+  },
+  {
+    "instruction": "Lock the back door and switch on the security camera",
+    "output": [
+      "lock back door",
+      "turn on security camera"
+    ]
+  },
+  {
+    "instruction": "Turn off the water heater and adjust the dishwasher to clean mode",
+    "output": [
+      "turn off water heater",
+      "adjust dishwasher to clean mode"
+    ]
+  },
+  {
+    "instruction": "Close the living room curtains and switch on the TV",
+    "output": [
+      "close living room curtains",
+      "turn on tv"
+    ]
+  },
+  {
+    "instruction": "Adjust the thermostat to 18 degrees and turn off the heater",
+    "output": [
+      "adjust thermostat to 18 degrees",
+      "turn off heater"
+    ]
+  },
+  {
+    "instruction": "Turn on the outdoor lights and switch on the water pump",
+    "output": [
+      "turn on outdoor lights",
+      "turn on water pump"
+    ]
+  },
+  {
+    "instruction": "Dim the dining room lights and turn on the chandelier",
+    "output": [
+      "dim dining room lights",
+      "turn on chandelier"
+    ]
+  },
+  {
+    "instruction": "Open the backyard door and turn on the pool heater",
+    "output": [
+      "open backyard door",
+      "turn on pool heater"
+    ]
+  },
+  {
+    "instruction": "Turn off lights and switch on fan.",
+    "output": [
+      "turn off lights",
+      "turn on fan"
+    ]
+  },
+  {
+    "instruction": "Dim the living room lights to 50 and change the color to blue.",
+    "output": [
+      "dim living room lights to 50%",
+      "change living room color to blue"
+    ]
+  },
+  {
+    "instruction": "Raise the thermostat temperature and increase the humidity.",
+    "output": [
+      "raise thermostat temperature",
+      "increase humidity"
+    ]
+  },
+  {
+    "instruction": "Turn on the TV and adjust the volume to 75.",
+    "output": [
+      "turn on TV",
+      "adjust TV volume to 75%"
+    ]
+  },
+  {
+    "instruction": "Set the alarm for 7:00 AM and switch on the radio.",
+    "output": [
+      "set alarm for 7:00 AM",
+      "turn on radio"
+    ]
+  },
+  {
+    "instruction": "Dim the bedroom lights to 75 and change the color to red.",
+    "output": [
+      "dim bedroom lights to 75%",
+      "change bedroom color to red"
+    ]
+  },
+  {
+    "instruction": "Turn off the coffee machine and switch on the coffee maker.",
+    "output": [
+      "turn off coffee machine",
+      "turn on coffee maker"
+    ]
+  },
+  {
+    "instruction": "Increase the brightness of the kitchen lights and change the color to green.",
+    "output": [
+      "increase kitchen lights brightness",
+      "change kitchen color to green"
+    ]
+  },
+  {
+    "instruction": "Lower the living room lights and adjust the color to blue.",
+    "output": [
+      "lower living room lights",
+      "adjust living room color to blue"
+    ]
+  },
+  {
+    "instruction": "Turn on the oven and set the temperature to 400.",
+    "output": [
+      "turn on oven",
+      "set oven temperature to 400"
+    ]
+  },
+  {
+    "instruction": "Dim the dining room lights to 50 and change the color to yellow.",
+    "output": [
+      "dim dining room lights to 50%",
+      "change dining room color to yellow"
+    ]
+  },
+  {
+    "instruction": "Turn off the washing machine and switch on the dryer.",
+    "output": [
+      "turn off washing machine",
+      "turn on dryer"
+    ]
+  },
+  {
+    "instruction": "Increase the volume of the music player and adjust the genre to rock.",
+    "output": [
+      "increase music player volume",
+      "adjust music player genre to rock"
+    ]
+  },
+  {
+    "instruction": "Set the thermostat temperature and humidity to normal.",
+    "output": [
+      "set thermostat to normal temperature",
+      "set thermostat to normal humidity"
+    ]
+  },
+  {
+    "instruction": "Lower the TV volume and switch off the TV.",
+    "output": [
+      "lower TV volume",
+      "turn off TV"
+    ]
+  },
+  {
+    "instruction": "Dim the hallway lights to 25 and change the color to orange.",
+    "output": [
+      "dim hallway lights to 25%",
+      "change hallway color to orange"
+    ]
+  },
+  {
+    "instruction": "Increase the brightness of the TV and adjust the color to green.",
+    "output": [
+      "increase TV brightness",
+      "change TV color to green"
+    ]
+  },
+  {
+    "instruction": "Turn off the security camera and switch on the motion detector.",
+    "output": [
+      "turn off security camera",
+      "turn on motion detector"
+    ]
+  },
+  {
+    "instruction": "Adjust the coffee machine temperature and switch on the water heater.",
+    "output": [
+      "adjust coffee machine temperature",
+      "turn on water heater"
+    ]
+  },
+  {
+    "instruction": "Switch off the washing machine and turn on the dish washer.",
+    "output": [
+      "turn off washing machine",
+      "turn on dish washer"
+    ]
+  },
+  {
+    "instruction": "Dim the garden lights to 50 and change the color to blue.",
+    "output": [
+      "dim garden lights to 50%",
+      "change garden color to blue"
+    ]
+  },
+  {
+    "instruction": "Turn off lights and switch on fan",
+    "output": [
+      "turn off lights",
+      "turn on fan"
+    ]
+  },
+  {
+    "instruction": "Unlock door and set thermostat to 72 degrees",
+    "output": [
+      "unlock door",
+      "set temperature to 72"
+    ]
+  },
+  {
+    "instruction": "Close curtains and turn on TV",
+    "output": [
+      "close curtains",
+      "turn on TV"
+    ]
+  },
+  {
+    "instruction": "Play music and adjust volume to 50",
+    "output": [
+      "play music",
+      "set volume to 50"
+    ]
+  },
+  {
+    "instruction": "Dim lights to 30 and switch on lamp",
+    "output": [
+      "dim lights to 30",
+      "turn on lamp"
+    ]
+  },
+  {
+    "instruction": "Unlock door and play video content on TV",
+    "output": [
+      "unlock door",
+      "play video content on TV"
+    ]
+  },
+  {
+    "instruction": "Increase humidity to 60 and turn on AC",
+    "output": [
+      "increase humidity to 60",
+      "turn on AC"
+    ]
+  },
+  {
+    "instruction": "Close garage door and lock front door",
+    "output": [
+      "close garage door",
+      "lock front door"
+    ]
+  },
+  {
+    "instruction": "Turn off TV and switch on computer",
+    "output": [
+      "turn off TV",
+      "turn on computer"
+    ]
+  },
+  {
+    "instruction": "Set thermostat to 68 degrees and switch on air conditioner",
+    "output": [
+      "set temperature to 68",
+      "turn on air conditioner"
+    ]
+  },
+  {
+    "instruction": "Dim lights to 20 and play music",
+    "output": [
+      "dim lights to 20",
+      "play music"
+    ]
+  },
+  {
+    "instruction": "Switch on microwave and heat for 3 minutes",
+    "output": [
+      "turn on microwave",
+      "heat for 3 minutes"
+    ]
+  },
+  {
+    "instruction": "Close all doors and switch off all lights",
+    "output": [
+      "close garage door",
+      "close front door",
+      "turn off lights"
+    ]
+  },
+  {
+    "instruction": "Play video content on TV and adjust volume to 70",
+    "output": [
+      "play video content on TV",
+      "set volume to 70"
+    ]
+  },
+  {
+    "instruction": "Switch on oven and set timer to 20 minutes",
+    "output": [
+      "turn on oven",
+      "set timer to 20 minutes"
+    ]
+  },
+  {
+    "instruction": "Turn on coffee maker and adjust brew strength to medium",
+    "output": [
+      "turn on coffee maker",
+      "set brew strength to medium"
+    ]
+  },
+  {
+    "instruction": "Dim lights to 40 and switch on lamp",
+    "output": [
+      "dim lights to 40",
+      "turn on lamp"
+    ]
+  },
+  {
+    "instruction": "Unlock back door and switch on air purifier",
+    "output": [
+      "unlock back door",
+      "turn on air purifier"
+    ]
+  },
+  {
+    "instruction": "Increase temperature to 75 and switch on fan",
+    "output": [
+      "set temperature to 75",
+      "turn on fan"
+    ]
+  },
+  {
+    "instruction": "Play music and adjust lights to 80",
+    "output": [
+      "play music",
+      "dim lights to 80"
+    ]
+  },
+  {
+    "instruction": "Switch off all devices and lock front door",
+    "output": [
+      "turn off all devices",
+      "lock front door"
+    ]
+  },
+  {
+    "instruction": "Turn off lights and switch on fan",
+    "output": [
+      "turn off lights",
+      "turn on fan"
+    ]
+  },
+  {
+    "instruction": "Lock all doors and start the coffee machine",
+    "output": [
+      "lock doors",
+      "start coffee machine"
+    ]
+  },
+  {
+    "instruction": "Close the curtains and set the temperature to 20 degrees",
+    "output": [
+      "close curtains",
+      "set temperature to 20"
+    ]
+  },
+  {
+    "instruction": "Activate the alarm system and play music from the living room",
+    "output": [
+      "activate alarm system",
+      "play music from living room"
+    ]
+  },
+  {
+    "instruction": "Make the lights in the bathroom brighter and turn on the shower",
+    "output": [
+      "increase light in bathroom",
+      "turn on shower"
+    ]
+  },
+  {
+    "instruction": "Dim the living room lights and start the TV",
+    "output": [
+      "dim lights in living room",
+      "start TV"
+    ]
+  },
+  {
+    "instruction": "Close the windows and doors to save energy",
+    "output": [
+      "close windows",
+      "lock doors"
+    ]
+  },
+  {
+    "instruction": "Set the living room temperature to 22 degrees and adjust the fan speed",
+    "output": [
+      "set temperature in living room to 22",
+      "adjust fan speed"
+    ]
+  },
+  {
+    "instruction": "Turn on the lights in the bedrooms and start the AC",
+    "output": [
+      "turn on lights in bedrooms",
+      "start AC"
+    ]
+  },
+  {
+    "instruction": "Open the living room curtains and start the vacuum cleaner",
+    "output": [
+      "open curtains in living room",
+      "start vacuum cleaner"
+    ]
+  },
+  {
+    "instruction": "Play music from the kitchen and start the washing machine",
+    "output": [
+      "play music from kitchen",
+      "start washing machine"
+    ]
+  },
+  {
+    "instruction": "Activate the home security system and lock the front door",
+    "output": [
+      "activate home security",
+      "lock front door"
+    ]
+  },
+  {
+    "instruction": "Dim the lights in the bedroom and start a movie from the entertainment system",
+    "output": [
+      "dim lights in bedrooms",
+      "start entertainment system"
+    ]
+  },
+  {
+    "instruction": "Start the coffee maker and set the living room temperature to 23",
+    "output": [
+      "start coffee machine",
+      "set temperature in living room to 23"
+    ]
+  },
+  {
+    "instruction": "Turn on the living room lights and start the music player",
+    "output": [
+      "turn on lights in living room",
+      "start music player"
+    ]
+  },
+  {
+    "instruction": "Start the shower and set the room temperature to 24",
+    "output": [
+      "turn on shower",
+      "set temperature to 24"
+    ]
+  },
+  {
+    "instruction": "Close the curtains in the bedrooms and turn off the bedroom lights",
+    "output": [
+      "close curtains in bedrooms",
+      "turn off lights"
+    ]
+  },
+  {
+    "instruction": "Play music in the living room and start the TV",
+    "output": [
+      "play music from living room",
+      "start TV"
+    ]
+  },
+  {
+    "instruction": "Start the dishwasher and set the kitchen temperature to 20 degrees",
+    "output": [
+      "start dishwasher",
+      "set temperature in kitchen to 20"
+    ]
+  },
+  {
+    "instruction": "Dim the lights in the living room and start the fireplace",
+    "output": [
+      "dim lights in living room",
+      "start fireplace"
+    ]
+  },
+  {
+    "instruction": "Turn off lights and switch on fan",
+    "output": [
+      "turn off lights",
+      "turn on fan"
+    ]
+  },
+  {
+    "instruction": "Adjust thermostat to 22\u00b0C and turn off AC",
+    "output": [
+      "adjust thermostat to 22\u00b0C",
+      "turn off ac"
+    ]
+  },
+  {
+    "instruction": "Open curtains and let in sunlight",
+    "output": [
+      "open curtains",
+      "let in sunlight"
+    ]
+  },
+  {
+    "instruction": "Play relaxing music in the living room",
+    "output": [
+      "play relaxing music",
+      "in the living room"
+    ]
+  },
+  {
+    "instruction": "Dim all lights and turn on TV in the study",
+    "output": [
+      "dim all lights",
+      "turn on tv",
+      "in the study"
+    ]
+  },
+  {
+    "instruction": "Start the morning routine with a 30-minute alarm",
+    "output": [
+      "start the morning routine",
+      "set alarm for 30 minutes"
+    ]
+  },
+  {
+    "instruction": "Stop cooking and put the kitchen on standby",
+    "output": [
+      "stop cooking",
+      "put the kitchen on standby"
+    ]
+  },
+  {
+    "instruction": "Turn off all electronics and dim the master lights",
+    "output": [
+      "turn off all electronics",
+      "dim master lights"
+    ]
+  },
+  {
+    "instruction": "Change the room temperature to 26\u00b0C and turn off the heater",
+    "output": [
+      "change the room temperature to 26\u00b0C",
+      "turn off the heater"
+    ]
+  },
+  {
+    "instruction": "Let the morning sunlight fill the room",
+    "output": [
+      "let the morning sunlight fill the room"
+    ]
+  },
+  {
+    "instruction": "Dim the living room lights and turn on the fireplace",
+    "output": [
+      "dim living room lights",
+      "turn on the fireplace"
+    ]
+  },
+  {
+    "instruction": "Increase the lighting in the kitchen to 50% and start brewing coffee",
+    "output": [
+      "increase kitchen lighting to 50%",
+      "start brewing coffee"
+    ]
+  },
+  {
+    "instruction": "Turn off the coffee maker and reduce the room temperature to 19\u00b0C",
+    "output": [
+      "turn off the coffee maker",
+      "reduce the room temperature to 19\u00b0C"
+    ]
+  },
+  {
+    "instruction": "Switch on the bedroom lights and play soft music",
+    "output": [
+      "switch on bedroom lights",
+      "play soft music"
+    ]
+  },
+  {
+    "instruction": "Turn off all electronics and open the bedroom curtains",
+    "output": [
+      "turn off all electronics",
+      "open the bedroom curtains"
+    ]
+  },
+  {
+    "instruction": "Increase the security cameras to 1080p and turn off the alarm in the backyard",
+    "output": [
+      "increase security cameras to 1080p",
+      "turn off alarm in the backyard"
+    ]
+  },
+  {
+    "instruction": "Set the thermostat to 22\u00b0C and turn off the heater in the living room",
+    "output": [
+      "set thermostat to 22\u00b0C",
+      "turn off heater in the living room"
+    ]
+  }
+]
